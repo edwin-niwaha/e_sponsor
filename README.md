@@ -63,4 +63,3 @@ Make sure you have python and Node js installed on your system:
    npm start
     ```
 - Once node is started you can access the application on http://localhost:3000/
-https://medium.com/@fizaashraf37/develop-a-crud-application-using-django-and-react-part-3-f3d0d28139af
