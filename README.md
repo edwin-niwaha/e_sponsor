@@ -25,7 +25,7 @@ Make sure you have python and Node js installed on your system:
 ## Setup Backend
 - Nvaigate to cloned project directory
   ```bash
-    cd perpetual-sms/backend
+    cd e_sponsor/e_sponsor
     ```
 - Create a python virtual environment for backend
   ```bash
@@ -52,7 +52,7 @@ Make sure you have python and Node js installed on your system:
 ## Setup Frontend
 - Open a new terminal and navigate to frontend directory
   ```bash
-   cd perpetual-sms/frontend
+   cd e_sponsor/frontend/e_sponsor-web
     ```
 - Install frontend libraries using npm
   ```bash
