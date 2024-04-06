@@ -1,5 +1,5 @@
-# PERPETUAL-SMS PROJECT
-_A sponsorship management web application developed in Django and React Js_
+# e_sponsor
+_A sponsorship management system  with web and mobile apps developed in Django and React Js_
 
 ## Requirements
 Make sure you have python and Node js installed on your system:
